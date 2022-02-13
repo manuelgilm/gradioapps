@@ -12,3 +12,6 @@ It is recomendable to use a virtualenv to test the script. Before that just run.
 pip install -r requirements.txt
 python helloworld.py
 ```
+## How it looks
+
+![gradio]("gradio_presentation.png")
