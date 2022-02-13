@@ -1,0 +1,5 @@
+gradio==2.7.5.2
+Jinja2==3.0.3
+opencv-python==4.5.5.62
+requests==2.27.1
+uvicorn==0.17.4
