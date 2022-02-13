@@ -14,4 +14,4 @@ python helloworld.py
 ```
 ## How it looks
 
-![gradio]("gradio_presentation.png")
+![gradio]("./gradio_presentation.png")
