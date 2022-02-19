@@ -4,6 +4,7 @@ import cv2
 
 
 def make_requests(content, style_url):
+    print(content)
     _ , encoded_image = cv2.imencode('.png', content)
     r = requests.post(
         "https://api.deepai.org/api/fast-style-transfer",
