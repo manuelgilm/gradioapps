@@ -23,6 +23,7 @@ gr.Interface(
     fn = make_requests,
     inputs = inputs,
     outputs = gr.outputs.Image(type="file"), 
+    allow_flagging = "never"  
 ).launch()
 
 
